@@ -26,7 +26,7 @@ SECRET_KEY = 'e5702f75-df43-4bb4-9b9d-2bf6795fffdf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["nasaspaceapp.azurewebsites.net", "locahost" ]
+ALLOWED_HOSTS = ["nasaspaceapp.azurewebsites.net", "localhost" ]
 
 
 # Application definition
